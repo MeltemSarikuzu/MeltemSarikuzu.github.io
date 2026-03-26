@@ -418,4 +418,9 @@ h1, h2, h3 {
   .button-group {
     align-items: stretch;
   }
+  .card:hover {
+  transform: translateY(-5px);
+  transition: 0.2s;
 }
+}
+
